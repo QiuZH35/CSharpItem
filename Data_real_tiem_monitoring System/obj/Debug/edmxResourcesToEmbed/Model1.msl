@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="testModelStoreContainer" CdmEntityContainer="testEntities1">
+    <EntitySetMapping Name="Datastruct">
+      <EntityTypeMapping TypeName="testModel.Datastruct">
+        <MappingFragment StoreEntitySet="Datastruct">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="timedata" ColumnName="timedata" />
+          <ScalarProperty Name="temperature" ColumnName="temperature" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

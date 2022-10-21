@@ -1,0 +1,43 @@
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\Data_real_tiem_monitoring System.exe.config
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\Data_real_tiem_monitoring System.exe
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\Data_real_tiem_monitoring System.pdb
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.csproj.AssemblyReference.cache
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.csproj.SuggestedBindingRedirects.cache
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring_System.Properties.Resources.resources
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.csproj.GenerateResource.cache
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.csproj.CoreCompileInputs.cache
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.exe
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.pdb
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\EntityFramework.dll
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\EntityFramework.xml
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.csproj.CopyComplete
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring_System.Form2.resources
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring_System.From1.resources
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\en-KE\Data_real_tiem_monitoring System.resources.dll
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring_System.From1.en-KE.resources
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\en-KE\Data_real_tiem_monitoring System.resources.dll
+D:\C#Data\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring_System.数据库基本信息采集.resources
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\Data_real_tiem_monitoring System.exe.config
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\Data_real_tiem_monitoring System.exe
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\Data_real_tiem_monitoring System.pdb
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\en-KE\Data_real_tiem_monitoring System.resources.dll
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\EntityFramework.dll
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\EntityFramework.SqlServer.dll
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\EntityFramework.xml
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\EntityFramework.SqlServer.xml
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.csprojAssemblyReference.cache
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring_System.From1.resources
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring_System.Form2.resources
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring_System.Properties.Resources.resources
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring_System.数据库基本信息采集.resources
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring_System.From1.en-KE.resources
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.csproj.GenerateResource.cache
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.csproj.CoreCompileInputs.cache
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\en-KE\Data_real_tiem_monitoring System.resources.dll
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.csproj.CopyComplete
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.exe
+E:\Data_real_tiem_monitoring System\Data_real_tiem_monitoring System\obj\Debug\Data_real_tiem_monitoring System.pdb
